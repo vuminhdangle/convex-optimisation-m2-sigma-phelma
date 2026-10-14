@@ -3,9 +3,13 @@
 Python and Jupyter Notebook implementations of convex optimisation methods, illustrated through three practical applications. 
 
 Author: Vu Minh Dang LE
+
 Programme: Master 2 Signal and Image Processing (SIGMA). 
+
 School: Grenoble INP - Phelma. 
+
 Academic year: 2025 - 2026. 
+
 Course grade: 17/20.
 
 ## Overview
